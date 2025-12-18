@@ -1,3 +1,4 @@
+isort
 tabulate
 pytest
 pytest-cov
